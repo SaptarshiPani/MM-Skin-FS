@@ -5,3 +5,6 @@ Conference - PHAROS-AIF_MIH Workshop in Conjunction with The IEEE/CVF Conference
 Code Files :- <br />
 ProposedModel.ipynb -> Code implementation of the Proposed model used in the study. <br />
 
+Architecture :- <br />
+<img width="687" height="346" alt="Image" src="https://github.com/user-attachments/assets/25916db5-994b-4c5e-8cd4-d28d887defc7" />
+<br /><br />
