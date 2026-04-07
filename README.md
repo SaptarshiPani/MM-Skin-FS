@@ -1,4 +1,4 @@
-<img width="1492" height="790" alt="image" src="https://github.com/user-attachments/assets/f1a88cef-5e92-48c1-9a9e-f553a53352d5" />Title - "Few-Shot Learning based Multimodal Skin Lesion Classification". <br />
+Title - "Few-Shot Learning based Multimodal Skin Lesion Classification". <br />
 Authors - Saptarshi Pani, Ananya Saha, Third Author, Dmitrii Kaplun, Ram Sarkar. <br />
 Conference - PHAROS-AIF_MIH Workshop in Conjunction with The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026. <br />
 
